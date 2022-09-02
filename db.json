@@ -1,4 +1,23 @@
 {
- "number": 15,
-  "string": "Hello"
+  "Data": {
+    "Name": {
+      "string": "New Project"
+    },
+    "date": {
+      "month": 1,
+      "day": 1,
+      "year": 2022
+    }
+  },
+  "contents": {
+    "description": {
+      "string": "This Is A Template"
+    },
+    "Notes": {
+      "Array": [
+        "You Can Still Copy Paste The Template",
+        "Cool That's Epic!"
+      ]
+    }
+  }
 }
